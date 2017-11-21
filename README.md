@@ -8,4 +8,5 @@ $ node health_check < server.txt
 ## result
 ```
 www.canxan.com    OK
+www.jongpak.com    OK
 ```
