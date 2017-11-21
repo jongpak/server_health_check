@@ -4,6 +4,8 @@
 ```bash
 $ node health_check < server.txt
 ```
+
+## result
 ```
 www.canxan.com    OK
 ```
