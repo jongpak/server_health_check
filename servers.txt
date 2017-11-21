@@ -1,0 +1,2 @@
+# HOST            IP                PORT    PATH    TIMEOUT
+www.canxan.com    www.canxan.com    80      /       250
